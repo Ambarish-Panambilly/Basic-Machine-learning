@@ -1,2 +1,2 @@
-# Machine-Learning-Deep-Learning-Data-Science
-Contains short Machine learning/Deep learning/Data science projects 
+# Basic-Machine-learning-and-Data-Science
+Contains basic Machine learning and Data analysis examples using Sk-learn,Pandas,Seaborn etc. 
